@@ -15,6 +15,6 @@ Currently, issues with iterating through decision tree to obtain accurate predic
 ## instructions on use
 For running in the terminal, you will need to first type the command "javac CS4375A1.java"
 
-Then you will need to type the command "java CS4375"
+Then you will need to type the command "java CS4375A1"
 
 The console will prompt the user for the file name of the training data, and once entered, will then prompt for the file name of the testing data. Example data files are also added to the repository.
